@@ -1,0 +1,20 @@
+{
+  "name": "battleship-engine",
+  "version": "1.0.0",
+  "description": "Build a game engine for a digital version of battleship using BDD unit tests",
+  "main": "main_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordanmor/battleship-engine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordanmor/battleship-engine/issues"
+  },
+  "homepage": "https://github.com/jordanmor/battleship-engine#readme"
+}
