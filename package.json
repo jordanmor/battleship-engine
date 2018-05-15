@@ -4,7 +4,7 @@
   "description": "Build a game engine for a digital version of battleship using BDD unit tests",
   "main": "main_test.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha main_test.js"
   },
   "repository": {
     "type": "git",
